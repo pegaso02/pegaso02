@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pegaso02
+- 🌱 I’m currently learning Java, Html, Css, y Angular
+- 📫 How to reach me [...](https://www.linkedin.com/in/fabian-manrique870ba190/)
